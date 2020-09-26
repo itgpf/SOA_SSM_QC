@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="790ac3f9-b8d4-42bf-b3cd-21fe9b18d986" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="qingcheng_parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1gJVUmmokAREPceOonOhI5AB8BE" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\qingcheng\qingcheng_parent\qingcheng_web_portal\src\main\webapp" />
+      <recent name="D:\qingcheng\qingcheng_parent\qingcheng_service_goods\src\main\resources" />
+      <recent name="D:\qingcheng\qingcheng_parent\qingcheng_service_order\src\main\resources" />
+      <recent name="D:\qingcheng\qingcheng_parent\qingcheng_web_portal" />
+      <recent name="D:\qingcheng\qingcheng_parent\qingcheng_web_portal\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.wxpay.sdk" />
+      <recent name="com.qingcheng.sercixe" />
+      <recent name="com.qingcheng.service.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\qingcheng\qingcheng_parent\qingcheng_web_manager\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WebUtil">
+    <configuration name="SkuServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qingcheng.service.impl.SkuServiceImpl" />
+      <module name="qingcheng_service_goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qingcheng.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qingcheng.util.WebUtil" />
+      <module name="qingcheng_common_web" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qingcheng.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qingcheng_service_goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qingcheng.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qingcheng.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.qingcheng.service.impl.Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test.test" />
+        <item itemvalue="Application.SkuServiceImpl" />
+        <item itemvalue="Application.WebUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="790ac3f9-b8d4-42bf-b3cd-21fe9b18d986" name="Default Changelist" comment="" />
+      <created>1597832699707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597832699707</updated>
+      <workItem from="1597832703969" duration="6799000" />
+      <workItem from="1597899593016" duration="3974000" />
+      <workItem from="1597904361037" duration="925000" />
+      <workItem from="1597905573530" duration="27057000" />
+      <workItem from="1598083862516" duration="4593000" />
+      <workItem from="1598153632332" duration="8948000" />
+      <workItem from="1598333580309" duration="38320000" />
+      <workItem from="1598792129284" duration="6853000" />
+      <workItem from="1598838557156" duration="8068000" />
+      <workItem from="1598874368207" duration="8580000" />
+      <workItem from="1598883574502" duration="2779000" />
+      <workItem from="1598920331116" duration="13147000" />
+      <workItem from="1598964730755" duration="7213000" />
+      <workItem from="1599030567887" duration="19461000" />
+      <workItem from="1599093362922" duration="6716000" />
+      <workItem from="1599129622741" duration="11160000" />
+      <workItem from="1599206993596" duration="12696000" />
+      <workItem from="1599229005637" duration="5485000" />
+      <workItem from="1599287201467" duration="3205000" />
+      <workItem from="1599356706597" duration="14914000" />
+      <workItem from="1599438400905" duration="1394000" />
+      <workItem from="1599475181694" duration="27000" />
+      <workItem from="1599482897099" duration="2340000" />
+      <workItem from="1599561816692" duration="9709000" />
+      <workItem from="1599609821292" duration="571000" />
+      <workItem from="1599610909711" duration="4489000" />
+      <workItem from="1599615564322" duration="43000" />
+      <workItem from="1599616537837" duration="1258000" />
+      <workItem from="1599654905103" duration="5896000" />
+      <workItem from="1599696623164" duration="5801000" />
+      <workItem from="1599702499884" duration="4167000" />
+      <workItem from="1599738165586" duration="11188000" />
+      <workItem from="1599783120407" duration="10172000" />
+      <workItem from="1599812450047" duration="2156000" />
+      <workItem from="1599822611590" duration="2264000" />
+      <workItem from="1599825025110" duration="2363000" />
+      <workItem from="1599827444931" duration="8068000" />
+      <workItem from="1599870691855" duration="1064000" />
+      <workItem from="1599984042627" duration="80000" />
+      <workItem from="1599985151800" duration="40000" />
+      <workItem from="1599985341760" duration="142000" />
+      <workItem from="1599986052262" duration="29000" />
+      <workItem from="1599999740428" duration="71000" />
+      <workItem from="1600000138600" duration="32000" />
+      <workItem from="1600004987523" duration="1493000" />
+      <workItem from="1600010593282" duration="121000" />
+      <workItem from="1600011474657" duration="683000" />
+      <workItem from="1600042072698" duration="44000" />
+      <workItem from="1600045611327" duration="165000" />
+      <workItem from="1600051749450" duration="407000" />
+      <workItem from="1600063718891" duration="790000" />
+      <workItem from="1600064549521" duration="7461000" />
+      <workItem from="1600079921332" duration="3542000" />
+      <workItem from="1600083537168" duration="1241000" />
+      <workItem from="1600086206128" duration="2150000" />
+      <workItem from="1600088415061" duration="68000" />
+      <workItem from="1600088534275" duration="1380000" />
+      <workItem from="1600093988894" duration="894000" />
+      <workItem from="1600129329441" duration="1135000" />
+      <workItem from="1600130812218" duration="1664000" />
+      <workItem from="1600132565428" duration="1973000" />
+      <workItem from="1600136562960" duration="238000" />
+      <workItem from="1600137443388" duration="921000" />
+      <workItem from="1600138419659" duration="6000" />
+      <workItem from="1600138968307" duration="986000" />
+      <workItem from="1600152853305" duration="3700000" />
+      <workItem from="1600159105555" duration="9641000" />
+      <workItem from="1600215412312" duration="9762000" />
+      <workItem from="1600238097913" duration="390000" />
+      <workItem from="1600238726889" duration="3534000" />
+      <workItem from="1600255811478" duration="6710000" />
+      <workItem from="1600263958405" duration="4814000" />
+      <workItem from="1600302010878" duration="4299000" />
+      <workItem from="1600323965465" duration="101000" />
+      <workItem from="1600324088841" duration="2870000" />
+      <workItem from="1600327075338" duration="10718000" />
+      <workItem from="1600413464828" duration="2240000" />
+      <workItem from="1600416091737" duration="80000" />
+      <workItem from="1600416314319" duration="3452000" />
+      <workItem from="1600500912082" duration="26000" />
+      <workItem from="1600502825139" duration="772000" />
+      <workItem from="1600609328528" duration="26410000" />
+      <workItem from="1600739498054" duration="11352000" />
+      <workItem from="1600822536071" duration="19377000" />
+      <workItem from="1600956898223" duration="1962000" />
+      <workItem from="1601085037159" duration="9446000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
